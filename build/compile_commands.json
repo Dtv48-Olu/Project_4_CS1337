@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/build",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -o CMakeFiles/project_4_cs1337.dir/main.cpp.o -c \"/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/main.cpp\"",
+  "file": "/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/main.cpp",
+  "output": "CMakeFiles/project_4_cs1337.dir/main.cpp.o"
+},
+{
+  "directory": "/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/build",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -o CMakeFiles/project_4_cs1337.dir/Stack.cpp.o -c \"/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/Stack.cpp\"",
+  "file": "/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/Stack.cpp",
+  "output": "CMakeFiles/project_4_cs1337.dir/Stack.cpp.o"
+}
+]

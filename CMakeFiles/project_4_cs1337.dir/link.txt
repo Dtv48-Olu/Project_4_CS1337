@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/project_4_cs1337.dir/main.cpp.o CMakeFiles/project_4_cs1337.dir/Stack.cpp.o -o project_4_cs1337 

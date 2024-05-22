@@ -1,0 +1,7 @@
+/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/CMakeFiles/project_4_cs1337.dir
+/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/CMakeFiles/edit_cache.dir
+/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/CMakeFiles/rebuild_cache.dir
+/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/CMakeFiles/list_install_components.dir
+/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/CMakeFiles/install.dir
+/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/CMakeFiles/install/local.dir
+/home/oodufowkan/Downloads/C++ Projects/Project_4_CS1337/CMakeFiles/install/strip.dir
